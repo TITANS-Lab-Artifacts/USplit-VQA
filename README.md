@@ -12,17 +12,11 @@ The paper (IEEE SMC 2026 submission) is the reference for all methodology and re
 
 ## Reference (pre-print)
 @article{syfullah2026usplitvqa,
-
   title   = {USPLIT-VQA: U-Shaped Split Learning for Visual Question Answering with Contribution-Aware Weighted Aggregation},
-  
   author  = {Syfullah, Md Khalid and Khalil, Alvi Ataur},
-  
   journal = {arXiv preprint arXiv:2609.12168},
-  
   year    = {2026},
-  
   doi     = {10.48550/arXiv.2609.12168}
-  
 }
 
 ---
