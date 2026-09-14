@@ -11,6 +11,7 @@ This repository holds the full experimental code for USplit-VQA, a U-shaped spli
 The paper (IEEE SMC 2026 submission) is the reference for all methodology and reported numbers. This README explains what each file does and how to run it.
 
 ## Reference (pre-print)
+```bibtex
 @article{syfullah2026usplitvqa,
   title   = {USPLIT-VQA: U-Shaped Split Learning for Visual Question Answering with Contribution-Aware Weighted Aggregation},
   author  = {Syfullah, Md Khalid and Khalil, Alvi Ataur},
@@ -18,7 +19,7 @@ The paper (IEEE SMC 2026 submission) is the reference for all methodology and re
   year    = {2026},
   doi     = {10.48550/arXiv.2609.12168}
 }
-
+```
 ---
 
 ## 1. What the framework does
